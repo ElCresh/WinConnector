@@ -1,0 +1,1 @@
+C:\Users\Utente\VSProject\WinConnector\WinConnector\WinConnector.csproj;x64
